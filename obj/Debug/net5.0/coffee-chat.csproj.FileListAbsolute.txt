@@ -1,0 +1,17 @@
+/Users/sharonhe/Desktop/dev/coffee-chat/bin/Debug/net5.0/coffee-chat.deps.json
+/Users/sharonhe/Desktop/dev/coffee-chat/bin/Debug/net5.0/coffee-chat.runtimeconfig.json
+/Users/sharonhe/Desktop/dev/coffee-chat/bin/Debug/net5.0/coffee-chat.runtimeconfig.dev.json
+/Users/sharonhe/Desktop/dev/coffee-chat/bin/Debug/net5.0/coffee-chat.dll
+/Users/sharonhe/Desktop/dev/coffee-chat/bin/Debug/net5.0/ref/coffee-chat.dll
+/Users/sharonhe/Desktop/dev/coffee-chat/bin/Debug/net5.0/coffee-chat.pdb
+/Users/sharonhe/Desktop/dev/coffee-chat/obj/Debug/net5.0/coffee-chat.csprojAssemblyReference.cache
+/Users/sharonhe/Desktop/dev/coffee-chat/obj/Debug/net5.0/coffee-chat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sharonhe/Desktop/dev/coffee-chat/obj/Debug/net5.0/coffee-chat.AssemblyInfoInputs.cache
+/Users/sharonhe/Desktop/dev/coffee-chat/obj/Debug/net5.0/coffee-chat.AssemblyInfo.cs
+/Users/sharonhe/Desktop/dev/coffee-chat/obj/Debug/net5.0/coffee-chat.csproj.CoreCompileInputs.cache
+/Users/sharonhe/Desktop/dev/coffee-chat/obj/Debug/net5.0/coffee-chat.dll
+/Users/sharonhe/Desktop/dev/coffee-chat/obj/Debug/net5.0/ref/coffee-chat.dll
+/Users/sharonhe/Desktop/dev/coffee-chat/obj/Debug/net5.0/coffee-chat.pdb
+/Users/sharonhe/Desktop/dev/coffee-chat/obj/Debug/net5.0/coffee-chat.genruntimeconfig.cache
+/Users/sharonhe/Desktop/dev/coffee-chat/bin/Debug/net5.0/MoreLinq.dll
+/Users/sharonhe/Desktop/dev/coffee-chat/obj/Debug/net5.0/coffee-chat.csproj.CopyComplete

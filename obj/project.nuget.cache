@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U3SF32Xhpi1we/D0dr4cJ10ojGTa19cw4a/6BwHEOKIJn5pR4SJK0oXVG+XIl7FOQVjOqjfoH5v+/KyOr/Ffrw==",
+  "success": true,
+  "projectFilePath": "/Users/sharonhe/Desktop/dev/coffee-chat/coffee-chat.csproj",
+  "expectedPackageFiles": [
+    "/Users/sharonhe/.nuget/packages/morelinq/3.3.2/morelinq.3.3.2.nupkg.sha512",
+    "/Users/sharonhe/.nuget/packages/morelinq.source.moreenumerable.distinctby/1.0.2/morelinq.source.moreenumerable.distinctby.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
