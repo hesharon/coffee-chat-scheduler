@@ -7,7 +7,7 @@ namespace coffee_chat
     {
         static void Main(string[] args)
         {
-            List<string> people = new List<string>{"Taher","Sharon","Simon","Jesse","Anson","Kenton","Emil","Sachit","Fred","Sean", "Alex", "Miranda", "Ken"};
+            List<string> people = new List<string>{"Taher","Montse","Simon","Jesse","Anson","Kenton","Emil","Sachit","Fred","Sean", "Alex", "Miranda", "Ken", "Andrew"};
 
             PairPeople(people);
         }
